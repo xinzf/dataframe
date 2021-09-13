@@ -8,5 +8,4 @@ require (
 	github.com/spf13/cast v1.4.1
 	golang.org/x/net v0.0.0-20210908191846-a5e095526f91
 	gonum.org/v1/gonum v0.9.3
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
